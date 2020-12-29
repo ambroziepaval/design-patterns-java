@@ -1,0 +1,6 @@
+Seoul
+17500000
+Mexico City
+17400000
+Tokyo
+123456789
