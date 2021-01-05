@@ -1,4 +1,4 @@
-package creational.adapter.withcaching;
+package structural.adapter.withcaching;
 
 import java.util.ArrayList;
 import java.util.Arrays;

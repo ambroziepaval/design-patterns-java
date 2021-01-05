@@ -1,4 +1,4 @@
-package creational.adapter.nocaching;
+package structural.adapter.nocaching;
 
 import java.util.ArrayList;
 import java.util.Arrays;
