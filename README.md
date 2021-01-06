@@ -43,3 +43,7 @@ A space optimization technique that lets us use less memory by storing the data 
 ### Proxy
 
 A class that functions as an interface to a particular resource. That resource may be remote, expensive to construct, or may require logging, or some other added functionality.
+
+### Chain of Responsibility
+
+A chain of components who all get a chance to process a command or a query, optionally having default processing implementation, and an ability to terminate the processing chain.
