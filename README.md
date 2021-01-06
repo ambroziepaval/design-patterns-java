@@ -38,4 +38,8 @@ Provides a simple, easy to understand user interface over a large and sophistica
 
 ### Flyweight
 
-A space optimization technique that lets us use less memory by storing the data associated with similar objects externally. 
+A space optimization technique that lets us use less memory by storing the data associated with similar objects externally.
+
+### Proxy
+
+A class that functions as an interface to a particular resource. That resource may be remote, expensive to construct, or may require logging, or some other added functionality.
