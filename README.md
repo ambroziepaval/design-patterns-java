@@ -31,3 +31,7 @@ A mechanism for treating individual (scalar) objects and composition of objects 
 ### Decorator
 
 Facilitates the addition of behaviors to individual objects without inheriting from them.
+
+### Facade
+
+Provides a simple, easy to understand user interface over a large and sophisticated body of code. 
