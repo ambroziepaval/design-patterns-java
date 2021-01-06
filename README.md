@@ -27,3 +27,7 @@ A mechanism that decouples and interface (hierarchy) from an implementation (hie
 ### Composite
 
 A mechanism for treating individual (scalar) objects and composition of objects in a uniform manner.
+
+### Decorator
+
+Facilitates the addition of behaviors to individual objects without inheriting from them.
