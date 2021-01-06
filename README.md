@@ -34,4 +34,8 @@ Facilitates the addition of behaviors to individual objects without inheriting f
 
 ### Facade
 
-Provides a simple, easy to understand user interface over a large and sophisticated body of code. 
+Provides a simple, easy to understand user interface over a large and sophisticated body of code.
+
+### Flyweight
+
+A space optimization technique that lets us use less memory by storing the data associated with similar objects externally. 
