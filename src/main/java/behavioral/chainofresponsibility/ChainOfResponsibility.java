@@ -1,4 +1,4 @@
-package behavioral;
+package behavioral.chainofresponsibility;
 
 class Creature {
 

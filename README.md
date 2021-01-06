@@ -47,3 +47,7 @@ A class that functions as an interface to a particular resource. That resource m
 ### Chain of Responsibility
 
 A chain of components who all get a chance to process a command or a query, optionally having default processing implementation, and an ability to terminate the processing chain.
+
+### Command
+
+An object which represents an instruction to perform a particular action. Contains all the information necessary for the action to be taken.

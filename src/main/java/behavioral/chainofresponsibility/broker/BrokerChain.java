@@ -1,4 +1,4 @@
-package behavioral.broker;
+package behavioral.chainofresponsibility.broker;
 
 import java.util.HashMap;
 import java.util.Map;
