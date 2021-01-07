@@ -91,3 +91,7 @@ Also known as a policy (esp. in the C++ world).
 ### Template Method
 
 Allows us to define the 'skeleton' of the algorithm, with concrete implementations defined in subclasses.
+
+### Visitor
+
+A pattern where a component (visitor) is allowed to traverse the entire inheritance hierarchy. Implemented by propagating a single _visit()_ method throughout the entire hierarchy.
