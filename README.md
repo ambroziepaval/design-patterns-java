@@ -71,3 +71,7 @@ A token/handle representing the system state. Lets us roll back to the state whe
 ### Null Object
 
 A no-op object that conforms to the required interface, satisfying a dependency requirement of some other object.
+
+### Observer
+
+An observer is an object that wishes to be informed about events happening in the system. The entity generating the events is an observable.
