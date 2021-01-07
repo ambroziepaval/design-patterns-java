@@ -75,3 +75,8 @@ A no-op object that conforms to the required interface, satisfying a dependency 
 ### Observer
 
 An observer is an object that wishes to be informed about events happening in the system. The entity generating the events is an observable.
+
+### State
+
+A pattern in which the object's behaviour is determined by its state. An object transitions from one state to another (something needs to _trigger_ a transition).
+A formalized construct which manages state and transitions is called a _state machine_. 
