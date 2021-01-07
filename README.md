@@ -79,4 +79,11 @@ An observer is an object that wishes to be informed about events happening in th
 ### State
 
 A pattern in which the object's behaviour is determined by its state. An object transitions from one state to another (something needs to _trigger_ a transition).
+
 A formalized construct which manages state and transitions is called a _state machine_. 
+
+### Strategy
+
+Enables the exact behavior of a system to be selected either at run-time (dynamic) or compile-time (static).
+
+Also known as a policy (esp. in the C++ world).
