@@ -95,3 +95,9 @@ Allows us to define the 'skeleton' of the algorithm, with concrete implementatio
 ### Visitor
 
 A pattern where a component (visitor) is allowed to traverse the entire inheritance hierarchy. Implemented by propagating a single _visit()_ method throughout the entire hierarchy.
+
+### Thread Pool
+
+The Thread Pool pattern helps to save resources in a multithreaded application, and also to contain the parallelism in certain predefined limits. When you use a thread pool, you
+write your concurrent code in the form of parallel tasks and submit them for execution to an instance of a thread pool. This instance controls several re-used threads for executing
+these tasks.
